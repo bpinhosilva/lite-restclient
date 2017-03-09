@@ -16,12 +16,17 @@
   ],
   "author": "Rafael Fogel",
   "contributors": [
-        "Bruno Pinho <bpinhosilva@gmail.com>",
-        "Thiago Machado <tserram23@gmail.com>"
+    "Bruno Pinho <bpinhosilva@gmail.com>",
+    "Thiago Machado <tserram23@gmail.com>"
   ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/bpinhosilva/lite-restclient/issues"
   },
-  "homepage": "https://github.com/bpinhosilva/lite-restclient#readme"
+  "homepage": "https://github.com/bpinhosilva/lite-restclient#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "debug": "^2.6.1",
+    "request": "^2.81.0"
+  }
 }
