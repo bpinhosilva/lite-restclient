@@ -1,0 +1,27 @@
+{
+  "name": "lite-restclient",
+  "version": "1.0.0",
+  "description": "Simple rest client to connect with APIs services.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bpinhosilva/lite-restclient.git"
+  },
+  "keywords": [
+    "rest",
+    "http"
+  ],
+  "author": "Rafael Fogel",
+  "contributors": [
+        "Bruno Pinho <bpinhosilva@gmail.com>",
+        "Thiago Machado <tserram23@gmail.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bpinhosilva/lite-restclient/issues"
+  },
+  "homepage": "https://github.com/bpinhosilva/lite-restclient#readme"
+}
