@@ -19,5 +19,4 @@ myRestClient.get(request.getPrototype())
         console.log(result);
     }).catch(err => {
         console.log(err);
-        console.error("error");
-});
+    });
